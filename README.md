@@ -1,24 +1,23 @@
-# Certificates
-A curated collection of DevOps-related certificates from courses, workshops, and training programs, showcasing continuous learning in automation, CI/CD, cloud infrastructure, and related tools.
-# 🛠️ DevOps Certificates
+🎓 Certificates Portfolio
+A curated collection of professional, technical, and academic certificates showcasing my continuous learning across DevOps, Embedded Systems, Programming, and Core Academics.
 
-This repository contains digital certificates earned from various DevOps-focused courses, workshops, and training programs. It serves as a portfolio of my learning journey in DevOps, cloud infrastructure, CI/CD pipelines, automation, and related technologies.
+🛠️ Technical & Academic Certificates
+This repository contains digital certificates earned from various technical courses, workshops, training programs, and academic achievements. It represents my learning journey in DevOps, Embedded Systems, C Programming, Cloud Infrastructure, Automation, and Core Engineering Subjects.
 
-## 📂 Categories
+📂 Categories
 
-- 🐳 Containerization (Docker, Kubernetes)
-- ☁️ Cloud Platforms (AWS, Azure, GCP)
-- 🔄 CI/CD (GitHub Actions, Jenkins, GitLab CI)
-- ⚙️ Infrastructure as Code (Terraform, Ansible)
-- 🔐 DevSecOps & Monitoring (Prometheus, Grafana, Vault)
+🐳 DevOps & Containerization (Docker, Kubernetes)
+☁️ Cloud Platforms (AWS, Azure, GCP)
+🔄 CI/CD Pipelines (GitHub Actions, Jenkins, GitLab CI)
+⚙️ Infrastructure as Code (Terraform, Ansible)
+🔐 DevSecOps & Monitoring (Prometheus, Grafana, Vault)
+🔌 Embedded Systems & IoT (ESP32, Arduino, STM32, Sensors, Microcontrollers)
+💻 Programming Languages (C Programming, Data Structures Basics)
+🎓 Academic Certificates (College, Workshops, Seminars, Technical Training)
 
-## 🎯 Purpose
+🎯 Purpose
 
-- Showcase continuous learning and hands-on training in DevOps
-- Maintain a public, verifiable record of professional development
-- Share progress with recruiters, peers, and the tech community
-
-## 📎 Notes
-
-- Some certificates may have personal information redacted for privacy.
-- All files are organized by category and issuing platform.
+Showcase continuous learning and skill development
+Maintain a public, verifiable record of certifications
+Highlight expertise in DevOps, Embedded Systems, and Core Programming
+Share progress with recruiters, peers, and the tech community
